@@ -1,2 +1,2 @@
-nome 
-senha
+digite seu nome 
+digite sua senha
